@@ -1,0 +1,26 @@
+ul{
+  font-size: 0;
+}
+
+li{
+  display: inline-block;
+  margin-left: 15px;
+  font-family: "Akaya Regular";
+  font-size: 2rem;
+  font-weight: bold;
+  color: teal;
+ 
+
+}
+
+@media all and (max-width:440px){
+  li{
+    display: block;
+  }
+}
+
+@media print {
+  li{
+    color: black;
+  }
+}

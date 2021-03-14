@@ -1,0 +1,26 @@
+header{
+  font-size: 4rem;
+  margin-bottom: 20px;
+  padding: 10px 15px;
+  font-family: sans-serif;
+  font-weight: bold;
+  border-bottom: 3px solid red;
+}
+
+@media screen and (min-width:100px){
+  header{
+    color:orange;
+  }
+}
+
+@media print{
+  header{
+    border-bottom: 3px solid gray
+
+  }
+}
+@media all and (max-width:400px){
+  header{
+    font-size: 2rem;
+  }
+}

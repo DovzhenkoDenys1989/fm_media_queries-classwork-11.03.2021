@@ -1,0 +1,23 @@
+@import url(./fonts.css);
+
+:root{
+  font-size: 18px;
+}
+
+h1{
+  font-family: "Akaya Regular";
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+h2{
+  font-family: "Roboto";
+  font-size: 2rem;
+}
+
+h3{
+  font-family: "Roboto";
+  font-size: 2rem;
+  font-weight: 400;
+  font-style: italic;
+}

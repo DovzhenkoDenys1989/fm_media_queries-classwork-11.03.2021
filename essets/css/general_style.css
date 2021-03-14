@@ -1,0 +1,45 @@
+@import "./fonts.css";
+@import "./screen_styles.css" screen;
+@import "./print_styles.css" print;
+
+:root{
+  font-size: 18px;
+}
+
+header{
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+  
+}
+
+h1{
+  font-family: "Akaya Regular";
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+h2{
+  font-family: "Roboto";
+  font-size: 2rem;
+}
+
+h3{
+  font-family: "Roboto";
+  font-size: 2rem;
+  font-weight: 400;
+  font-style: italic;
+}
+
+h4{
+  font-family: "Roboto";
+  font-size: 2rem;
+  font-weight: 800;
+  font-style: italic;
+}
+
+h5{
+  font-family: "Oswald";
+  font-size: 2rem;
+  font-weight: 800;
+  font-style: italic;
+}

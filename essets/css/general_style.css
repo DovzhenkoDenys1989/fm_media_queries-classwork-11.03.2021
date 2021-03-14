@@ -1,5 +1,5 @@
 @import "./fonts.css";
-@import "./screen_styles.css" screen;
+/*@import "./screen_styles.css" screen;*/
 @import "./print_styles.css" print;
 
 :root{
@@ -9,7 +9,7 @@
 header{
   font-size: 2.5rem;
   margin-bottom: 20px;
-  
+
 }
 
 h1{
